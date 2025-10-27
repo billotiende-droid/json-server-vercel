@@ -61,31 +61,28 @@
       "updated_at": "2025-19-10-10:55"
     },
     {
-      "id": "84ed",
+      "id": "7",
       "name": "Bumble Bee",
       "class": "Logistics",
       "health": "76",
       "damage": "62",
-      "avatar_url": "",
-      "avatar": "https://i.pinimg.com/736x/50/a0/3f/50a03ffcfe1ffbedc2a91692aebc1e1c.jpg"
+      "avatar_url": "https://i.pinimg.com/736x/50/a0/3f/50a03ffcfe1ffbedc2a91692aebc1e1c.jpg"
     },
     {
-      "id": "6105",
+      "id": "8",
       "name": "BoltTron ⚡",
       "class": "Supersonic speeds",
       "health": "80",
       "damage": "70",
-      "avatar_url": "",
-      "avatar": "https://i.pinimg.com/736x/1f/03/53/1f03534215e28848f29bf91b66ac6175.jpg"
+      "avatar_url": "https://i.pinimg.com/736x/1f/03/53/1f03534215e28848f29bf91b66ac6175.jpg"
     },
     {
-      "id": "adf6",
+      "id": "9",
       "name": "MechaNova",
       "class": "Mechanical Systems Infiltration",
       "health": "70",
       "damage": "50",
-      "avatar_url": "",
-      "avatar": "https://i.pinimg.com/736x/b2/da/c9/b2dac90a54876ad3f7ae8cb5048d2617.jpg"
+      "avatar_url": "https://i.pinimg.com/736x/b2/da/c9/b2dac90a54876ad3f7ae8cb5048d2617.jpg"
     }
   ]
 }
